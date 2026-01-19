@@ -1,0 +1,550 @@
+Skill,Count
+[],10052
+['tax'],569
+['web'],326
+['c++'],238
+['sql'],225
+"['c++', 'data structures']",158
+['budgeting'],151
+['databases'],147
+['testing'],92
+"['java', 'javascript', 'php', 'html', 'css', 'web', 'sql']",85
+['risk management'],83
+"['web', 'sql']",78
+"['java', 'javascript', 'html', 'css', 'web']",73
+"['sql', 'oracle']",71
+"['c++', 'sql']",70
+['java'],61
+"['java', 'javascript', 'html', 'css', 'web', 'sql', 'databases', 'oracle']",61
+"['sql', 'databases', 'oracle']",54
+"['java', 'javascript', 'php', 'html', 'css', 'sql']",50
+"['java', 'javascript', 'html', 'css', 'web', 'sql']",47
+"['sql', 'databases']",46
+['git'],42
+"['java', 'c++']",38
+['financial reporting'],38
+"['web', 'sql', 'testing']",35
+"['web', 'testing']",35
+"['html', 'css', 'web']",32
+['python'],31
+"['java', 'javascript', 'html', 'css', 'sql']",31
+"['financial reporting', 'tax']",31
+"['c++', 'testing']",30
+"['java', 'javascript', 'php', 'html', 'css', 'web']",30
+['html'],29
+"['java', 'javascript', 'html', 'css']",28
+"['html', 'web']",27
+['agile'],26
+"['java', 'sql']",26
+"['php', 'sql']",25
+"['c++', 'data structures', 'databases']",25
+"['java', 'javascript', 'php', 'html', 'web', 'sql']",25
+"['java', 'web', 'sql', 'databases', 'oracle']",25
+"['java', 'web']",25
+['oracle'],24
+"['java', 'sql', 'databases', 'oracle']",23
+['sap'],22
+"['web', 'git']",21
+"['web', 'sql', 'databases']",20
+['bookkeeping'],19
+"['sql', 'testing']",17
+"['java', 'c++', 'sql']",17
+"['python', 'testing']",17
+"['gaap', 'tax']",16
+"['java', 'javascript', 'html', 'sql']",16
+"['tax', 'risk management']",16
+"['java', 'javascript', 'web', 'sql']",15
+"['web', 'financial reporting', 'budgeting']",15
+"['java', 'c++', 'php', 'html', 'web', 'sql']",15
+"['java', 'javascript', 'html', 'web', 'sql']",15
+"['bookkeeping', 'sap']",15
+"['java', 'web', 'sql']",15
+"['java', 'javascript', 'php', 'html', 'css', 'web', 'sql', 'git']",14
+"['python', 'c++']",14
+"['java', 'javascript', 'php', 'html', 'css', 'web', 'sql', 'databases']",14
+"['java', 'php', 'sql', 'databases', 'oracle']",14
+"['python', 'c++', 'testing', 'agile']",14
+"['java', 'javascript', 'html', 'css', 'sql', 'databases']",13
+"['web', 'sql', 'oracle']",13
+"['c++', 'web', 'sql']",12
+"['java', 'javascript', 'html', 'sql', 'databases', 'testing']",12
+"['sql', 'databases', 'testing']",12
+"['java', 'c++', 'web', 'sql', 'oracle']",12
+"['python', 'web', 'sql', 'testing', 'agile']",12
+"['php', 'web', 'sql']",12
+"['java', 'html', 'css', 'web', 'sql']",11
+"['python', 'git']",11
+"['java', 'javascript', 'html', 'css', 'web', 'sql', 'agile', 'scrum', 'oracle']",11
+"['java', 'web', 'sql', 'oracle']",10
+"['php', 'html', 'css', 'sql']",10
+"['java', 'javascript', 'php', 'sql']",10
+['quickbooks'],10
+"['java', 'javascript', 'php', 'html', 'css', 'web', 'sql', 'git', 'testing']",10
+['gaap'],10
+"['html', 'web', 'sql']",10
+"['java', 'html', 'css', 'web']",10
+"['php', 'html', 'web', 'sql']",10
+"['python', 'java', 'agile']",9
+"['java', 'php', 'html', 'css', 'sql']",9
+"['java', 'html', 'sql', 'oracle']",9
+"['java', 'javascript', 'html', 'css', 'web', 'sql', 'oracle']",9
+"['java', 'sql', 'databases']",9
+"['java', 'javascript', 'sql']",9
+"['java', 'c++', 'web', 'agile']",9
+"['databases', 'tax']",9
+"['java', 'javascript', 'html', 'css', 'sql', 'oracle']",8
+"['c++', 'git']",8
+"['tax', 'budgeting']",8
+"['tax', 'quickbooks']",8
+"['php', 'html']",8
+"['java', 'php', 'html', 'css']",8
+"['java', 'javascript', 'html', 'css', 'web', 'sql', 'databases']",8
+"['c++', 'sql', 'databases']",8
+"['java', 'c++', 'web', 'testing']",8
+"['c++', 'sql', 'databases', 'oracle']",8
+"['java', 'javascript', 'html', 'web']",8
+"['java', 'c++', 'javascript', 'html', 'css', 'web', 'sql']",8
+"['java', 'javascript', 'html', 'css', 'web', 'testing']",8
+"['java', 'javascript', 'php', 'html', 'css']",7
+"['java', 'testing']",7
+"['java', 'javascript', 'html', 'css', 'sql', 'git', 'agile', 'oracle']",7
+"['java', 'c++', 'sql', 'databases', 'testing']",7
+"['java', 'c++', 'javascript', 'php', 'html', 'css', 'web', 'sql', 'databases', 'oracle']",7
+"['html', 'css', 'web', 'git']",7
+"['java', 'c++', 'javascript', 'html', 'css', 'web', 'data structures', 'sql', 'databases']",7
+"['web', 'databases']",7
+"['java', 'c++', 'testing']",7
+"['java', 'javascript', 'core java', 'html', 'css', 'web', 'sql', 'oracle']",7
+"['java', 'javascript', 'html', 'sql', 'testing']",7
+"['php', 'html', 'sql']",6
+"['java', 'javascript', 'html', 'css', 'web', 'testing', 'agile']",6
+"['html', 'css']",6
+"['c++', 'web']",6
+"['java', 'php', 'html', 'sql', 'oracle']",6
+"['python', 'testing', 'agile']",6
+"['java', 'javascript', 'html', 'css', 'testing']",6
+"['java', 'c++', 'javascript', 'html', 'css']",6
+"['java', 'javascript', 'php', 'html', 'sql']",6
+"['web', 'sql', 'agile']",6
+"['php', 'html', 'css', 'web', 'sql']",6
+"['java', 'c++', 'data structures']",6
+"['web', 'testing', 'agile']",6
+"['html', 'web', 'sql', 'testing']",5
+"['financial reporting', 'gaap']",5
+"['java', 'c++', 'sql', 'databases', 'oracle']",5
+"['java', 'javascript', 'php', 'html', 'css', 'sql', 'agile']",5
+"['java', 'javascript', 'web', 'sql', 'testing']",5
+"['web', 'sql', 'databases', 'oracle']",5
+['apis'],5
+"['java', 'javascript', 'html']",5
+"['c++', 'sql', 'oracle']",5
+"['java', 'c++', 'php', 'sql']",5
+"['sap', 'oracle']",5
+['scrum'],5
+"['python', 'java', 'c++']",5
+"['html', 'css', 'web', 'sql']",5
+"['java', 'c++', 'sql', 'databases']",5
+"['java', 'javascript', 'php', 'web', 'sql']",5
+"['java', 'sql', 'nosql', 'agile', 'scrum']",5
+"['python', 'java', 'javascript', 'php', 'html', 'css']",5
+"['testing', 'agile']",5
+"['java', 'html', 'web', 'sql']",5
+"['php', 'html', 'web']",5
+"['java', 'web', 'testing']",5
+"['java', 'c++', 'javascript', 'html']",5
+"['python', 'c++', 'data structures']",5
+"['java', 'c++', 'javascript', 'html', 'databases', 'testing']",5
+"['tax', 'bookkeeping']",4
+"['apis', 'git']",4
+"['java', 'javascript', 'html', 'css', 'git']",4
+"['java', 'javascript', 'web', 'sql', 'git', 'agile', 'scrum']",4
+"['java', 'web', 'sql', 'git', 'github', 'agile', 'oracle']",4
+"['java', 'javascript', 'sql', 'git', 'github', 'agile']",4
+"['java', 'php', 'web', 'sql', 'oracle']",4
+"['python', 'c++', 'databases']",4
+"['html', 'css', 'sql']",4
+"['java', 'javascript', 'html', 'web', 'sql', 'testing', 'risk management']",4
+"['python', 'c++', 'testing']",4
+"['java', 'javascript', 'php', 'html', 'web']",4
+"['python', 'java', 'c++', 'html', 'sql', 'testing']",4
+"['sql', 'agile']",4
+"['financial reporting', 'risk management']",4
+"['java', 'c++', 'javascript']",4
+"['java', 'javascript', 'php', 'css', 'sql']",4
+"['java', 'javascript', 'php', 'html', 'css', 'web', 'sql', 'databases', 'oracle']",4
+"['java', 'javascript', 'html', 'css', 'sql', 'testing']",4
+"['web', 'sql', 'databases', 'testing', 'oracle']",4
+"['java', 'c++', 'web', 'sql']",4
+"['java', 'c++', 'javascript', 'html', 'web', 'sql', 'oracle']",4
+"['php', 'web', 'sql', 'oracle']",4
+"['java', 'php', 'html', 'css', 'web', 'sql']",4
+"['java', 'javascript', 'php', 'html', 'web', 'sql', 'testing', 'agile', 'waterfall']",4
+"['java', 'html', 'web', 'sql', 'git', 'oracle']",4
+"['java', 'javascript', 'php', 'html', 'css', 'web', 'sql', 'scrum']",4
+"['java', 'c++', 'javascript', 'html', 'css', 'sql']",4
+"['java', 'javascript', 'html', 'web', 'sql', 'oracle']",4
+"['web', 'budgeting']",4
+"['c++', 'agile']",4
+"['java', 'web', 'sql', 'databases', 'testing', 'oracle']",4
+"['java', 'php', 'sql']",4
+"['git', 'testing']",4
+"['financial reporting', 'ledger', 'tax']",3
+"['php', 'web', 'testing']",3
+"['java', 'html', 'web', 'sql', 'oracle']",3
+"['java', 'javascript', 'php', 'html', 'css', 'sql', 'databases', 'oracle']",3
+"['java', 'c++', 'html', 'web', 'sql', 'testing', 'oracle']",3
+"['python', 'c++', 'html', 'testing']",3
+"['java', 'web', 'sql', 'testing']",3
+"['c++', 'web', 'sql', 'databases', 'oracle']",3
+"['java', 'c++', 'sql', 'oracle']",3
+"['java', 'c++', 'javascript', 'php', 'html', 'css', 'web', 'sql', 'oracle']",3
+"['databases', 'oracle']",3
+"['c++', 'software development lifecycle']",3
+"['c++', 'html', 'software development lifecycle']",3
+"['data structures', 'sql']",3
+"['c++', 'web', 'git']",3
+"['java', 'javascript', 'html', 'css', 'web', 'data structures', 'sql', 'oracle']",3
+"['html', 'sql']",3
+['php'],3
+"['sql', 'testing', 'oracle']",3
+"['sql', 'testing', 'scrum']",3
+"['python', 'java', 'c++', 'web', 'git', 'agile']",3
+"['java', 'php', 'web']",3
+"['java', 'javascript', 'html', 'css', 'web', 'git', 'agile']",3
+"['python', 'java', 'javascript', 'php', 'html', 'css', 'sql', 'databases', 'oracle']",3
+"['java', 'php', 'html', 'css', 'web']",3
+"['c++', 'data structures', 'sql']",3
+"['java', 'javascript', 'web', 'testing']",3
+"['c++', 'php', 'sql']",3
+"['java', 'web', 'testing', 'agile']",3
+"['java', 'web', 'sql', 'databases']",3
+"['html', 'web', 'git']",3
+"['python', 'java', 'data structures', 'sql', 'nosql', 'agile']",3
+['legal research'],3
+"['java', 'javascript', 'web']",3
+"['java', 'javascript', 'html', 'css', 'web', 'sql', 'nosql', 'databases']",3
+"['java', 'javascript']",3
+"['java', 'c++', 'javascript', 'html', 'sql']",3
+"['php', 'web']",3
+"['java', 'web', 'oracle']",3
+"['python', 'sql', 'testing']",3
+"['php', 'web', 'sql', 'databases', 'oracle']",3
+"['java', 'core java', 'html', 'css', 'testing']",3
+"['java', 'sql', 'agile', 'scrum']",3
+"['java', 'c++', 'php', 'html', 'sql']",3
+"['java', 'php', 'html', 'web', 'sql']",3
+"['java', 'c++', 'javascript', 'html', 'css', 'web', 'data structures', 'sql', 'databases', 'oracle']",3
+"['java', 'html', 'sql']",3
+"['java', 'html']",3
+"['java', 'javascript', 'php', 'html', 'css', 'web', 'databases']",3
+"['java', 'javascript', 'php', 'sql', 'nosql', 'databases', 'agile', 'scrum']",3
+"['java', 'php', 'html', 'css', 'sql', 'git']",2
+"['java', 'php', 'web', 'sql']",2
+"['java', 'sql', 'oracle']",2
+"['financial reporting', 'budgeting']",2
+"['java', 'javascript', 'html', 'sql', 'testing', 'oracle']",2
+"['java', 'c++', 'apis']",2
+"['php', 'html', 'css', 'web', 'sql', 'git']",2
+"['html', 'css', 'web', 'sql', 'testing']",2
+"['java', 'javascript', 'php', 'web', 'sql', 'databases']",2
+"['java', 'javascript', 'html', 'web', 'sql', 'testing', 'oracle']",2
+"['java', 'javascript', 'php', 'web', 'databases']",2
+"['java', 'javascript', 'html', 'sql', 'agile']",2
+"['java', 'html', 'css', 'web', 'sql', 'databases']",2
+"['java', 'javascript', 'web', 'apis', 'sql']",2
+"['java', 'javascript', 'php', 'web']",2
+"['java', 'core java', 'html', 'css', 'web', 'data structures', 'sql', 'oracle']",2
+"['java', 'javascript', 'php', 'html', 'css', 'web', 'sql', 'nosql', 'databases', 'git']",2
+"['gaap', 'budgeting', 'risk management']",2
+"['java', 'c++', 'javascript', 'web', 'sql', 'databases', 'oracle']",2
+"['c++', 'apis']",2
+"['apis', 'databases', 'testing', 'agile']",2
+"['sql', 'databases', 'testing', 'agile', 'waterfall']",2
+"['web', 'sql', 'testing', 'scrum']",2
+"['java', 'web', 'agile', 'scrum']",2
+"['java', 'javascript', 'html', 'web', 'sql', 'software development lifecycle', 'testing', 'oracle']",2
+"['web', 'agile', 'scrum']",2
+"['java', 'c++', 'web', 'sql', 'databases']",2
+"['java', 'html', 'css', 'sql', 'databases']",2
+"['php', 'html', 'web', 'sql', 'databases', 'testing', 'oracle']",2
+"['java', 'javascript', 'html', 'css', 'web', 'sql', 'databases', 'git', 'oracle']",2
+"['python', 'sql']",2
+"['git', 'budgeting']",2
+"['java', 'javascript', 'sql', 'nosql', 'databases', 'testing']",2
+"['python', 'java', 'javascript']",2
+"['java', 'javascript', 'php', 'html', 'css', 'sql', 'git', 'github', 'agile', 'scrum']",2
+"['java', 'git']",2
+"['web', 'agile']",2
+"['java', 'c++', 'web', 'sql', 'agile']",2
+"['python', 'java', 'c++', 'javascript', 'php', 'html', 'css', 'web', 'sql']",2
+"['sql', 'sap']",2
+"['java', 'javascript', 'html', 'sql', 'agile', 'scrum']",2
+"['agile', 'scrum']",2
+"['java', 'scrum']",2
+"['ledger', 'tax']",2
+"['web', 'testing', 'agile', 'scrum']",2
+"['java', 'javascript', 'php', 'html', 'css', 'sql', 'databases']",2
+"['bookkeeping', 'budgeting']",2
+"['java', 'c++', 'html', 'web', 'sql', 'oracle']",2
+"['web', 'apis', 'rest services']",2
+"['java', 'apis', 'sql', 'databases']",2
+"['java', 'c++', 'web', 'sql', 'databases', 'oracle']",2
+"['python', 'agile']",2
+"['html', 'web', 'sql', 'databases']",2
+"['c++', 'data structures', 'git']",2
+"['java', 'javascript', 'html', 'web', 'sql', 'testing']",2
+"['python', 'java', 'c++', 'testing', 'agile']",2
+"['sql', 'risk management']",2
+['software development lifecycle'],2
+"['java', 'php', 'sql', 'oracle']",2
+"['java', 'javascript', 'php', 'html']",2
+"['php', 'git']",2
+"['python', 'java', 'c++', 'javascript', 'php', 'html', 'css', 'sql', 'databases']",2
+"['java', 'c++', 'web']",2
+"['java', 'javascript', 'html', 'css', 'web', 'sql', 'testing']",2
+"['databases', 'testing']",2
+"['java', 'javascript', 'php']",2
+"['java', 'javascript', 'html', 'css', 'sql', 'nosql', 'testing', 'agile']",2
+"['java', 'html', 'web']",2
+"['java', 'c++', 'javascript', 'php', 'html', 'sql']",2
+"['java', 'javascript', 'php', 'html', 'css', 'web', 'sql', 'oracle']",2
+"['budgeting', 'risk management']",2
+"['java', 'sql', 'agile', 'scrum', 'oracle']",2
+"['java', 'c++', 'javascript', 'php', 'html', 'web', 'apis', 'sql', 'git']",2
+"['java', 'html', 'web', 'testing']",2
+"['java', 'javascript', 'html', 'css', 'web', 'sql', 'testing', 'agile']",2
+"['c++', 'html']",2
+"['java', 'agile', 'scrum']",2
+"['python', 'java', 'databases']",1
+"['python', 'c++', 'html']",1
+"['java', 'javascript', 'php', 'html', 'web', 'sql', 'databases']",1
+"['java', 'html', 'sql', 'databases', 'testing', 'oracle']",1
+"['php', 'html', 'sql', 'databases']",1
+"['css', 'web']",1
+"['java', 'c++', 'javascript', 'web', 'data structures', 'sql', 'nosql', 'git', 'github']",1
+"['php', 'html', 'css', 'web', 'sql', 'testing']",1
+"['java', 'javascript', 'html', 'css', 'web', 'data structures', 'git', 'github', 'testing', 'agile']",1
+"['java', 'javascript', 'php', 'html', 'sql', 'testing']",1
+"['php', 'html', 'css', 'web', 'git']",1
+"['java', 'javascript', 'php', 'html', 'css', 'web', 'sql', 'nosql', 'databases']",1
+"['java', 'c++', 'agile', 'scrum']",1
+"['web', 'oracle']",1
+"['web', 'sql', 'testing', 'agile']",1
+"['java', 'javascript', 'sql', 'oracle']",1
+"['java', 'javascript', 'web', 'agile']",1
+"['html', 'git', 'testing']",1
+"['html', 'git']",1
+"['java', 'javascript', 'php', 'html', 'css', 'apis', 'sql', 'git', 'testing']",1
+"['java', 'javascript', 'php', 'html', 'css', 'web', 'git']",1
+"['java', 'c++', 'javascript', 'html', 'css', 'git']",1
+"['java', 'javascript', 'html', 'css', 'apis', 'git']",1
+['ledger'],1
+"['python', 'java', 'c++', 'javascript', 'php', 'html', 'css', 'web', 'sql', 'oracle']",1
+"['java', 'javascript', 'html', 'sql', 'nosql', 'oracle']",1
+"['java', 'javascript', 'css', 'web', 'agile']",1
+"['java', 'apis', 'sql', 'git']",1
+"['financial reporting', 'gaap', 'tax']",1
+"['php', 'web', 'git']",1
+"['java', 'javascript', 'css', 'web', 'sql']",1
+"['python', 'c++', 'data structures', 'testing']",1
+"['java', 'javascript', 'web', 'sql', 'databases', 'testing', 'agile']",1
+"['java', 'c++', 'html', 'css', 'web', 'data structures', 'sql', 'databases', 'oracle']",1
+"['databases', 'sap']",1
+"['php', 'web', 'sql', 'testing']",1
+"['python', 'java', 'javascript', 'php', 'html', 'css', 'web', 'sql']",1
+"['python', 'java', 'testing', 'agile']",1
+"['python', 'c++', 'agile']",1
+"['java', 'javascript', 'php', 'web', 'sql', 'databases', 'testing']",1
+"['java', 'css', 'web', 'sql', 'scrum']",1
+"['python', 'php', 'sql']",1
+"['html', 'web', 'sql', 'scrum']",1
+"['java', 'html', 'css', 'web', 'apis', 'sql', 'agile', 'scrum']",1
+"['html', 'css', 'sap']",1
+"['java', 'databases']",1
+"['c++', 'scrum']",1
+"['java', 'c++', 'web', 'agile', 'scrum']",1
+"['web', 'scrum']",1
+"['java', 'php', 'html', 'css', 'sql', 'software development lifecycle']",1
+"['java', 'javascript', 'html', 'css', 'web', 'sql', 'databases', 'testing']",1
+"['java', 'data structures']",1
+"['web', 'sql', 'databases', 'testing']",1
+"['html', 'web', 'testing']",1
+"['tax', 'budgeting', 'quickbooks']",1
+"['java', 'html', 'css']",1
+"['python', 'java', 'c++', 'databases']",1
+"['web', 'sql', 'sap']",1
+"['gaap', 'budgeting', 'sap']",1
+"['java', 'javascript', 'php', 'html', 'sql', 'scrum']",1
+"['java', 'php', 'html', 'sql']",1
+"['java', 'javascript', 'html', 'sql', 'nosql', 'databases', 'agile', 'scrum']",1
+"['css', 'web', 'sql']",1
+"['databases', 'tax', 'budgeting']",1
+"['java', 'c++', 'php', 'html', 'web']",1
+"['java', 'javascript', 'html', 'css', 'web', 'git']",1
+"['java', 'javascript', 'core java', 'html', 'css', 'data structures']",1
+"['java', 'javascript', 'core java', 'html', 'web']",1
+"['html', 'css', 'sql', 'databases', 'oracle']",1
+"['java', 'c++', 'javascript', 'php', 'web', 'databases']",1
+"['databases', 'bookkeeping']",1
+"['web', 'sql', 'testing', 'agile', 'scrum']",1
+"['java', 'javascript', 'html', 'web', 'testing', 'agile']",1
+"['java', 'c++', 'apis', 'sql']",1
+"['python', 'c++', 'web', 'databases']",1
+"['python', 'git', 'testing']",1
+"['java', 'javascript', 'php', 'html', 'css', 'web', 'agile']",1
+"['c++', 'data structures', 'testing']",1
+"['java', 'c++', 'javascript', 'php', 'sql']",1
+"['java', 'core java', 'web']",1
+"['java', 'c++', 'javascript', 'php', 'html', 'css', 'sql', 'oracle']",1
+"['java', 'javascript', 'html', 'css', 'sql', 'databases', 'oracle']",1
+"['java', 'sql', 'databases', 'testing', 'agile', 'scrum', 'oracle']",1
+"['java', 'c++', 'javascript', 'html', 'css', 'web']",1
+"['java', 'javascript', 'php', 'css', 'apis', 'sql', 'databases', 'oracle']",1
+"['databases', 'budgeting', 'oracle']",1
+"['java', 'javascript', 'html', 'css', 'web', 'sql', 'databases', 'agile', 'scrum', 'oracle']",1
+"['java', 'javascript', 'css', 'web', 'sql', 'testing']",1
+['css'],1
+"['html', 'sql', 'oracle']",1
+"['java', 'javascript', 'html', 'web', 'testing']",1
+"['php', 'web', 'sql', 'git']",1
+"['java', 'javascript', 'html', 'css', 'web', 'apis', 'sql', 'databases', 'agile']",1
+"['databases', 'risk management']",1
+"['tax', 'legal research']",1
+"['java', 'javascript', 'html', 'css', 'web', 'sql', 'git', 'agile']",1
+"['data structures', 'databases']",1
+"['python', 'php', 'web']",1
+"['java', 'sql', 'agile']",1
+"['web', 'risk management']",1
+"['python', 'c++', 'php', 'sql', 'databases']",1
+"['java', 'php', 'html', 'web', 'sql', 'git']",1
+"['java', 'html', 'web', 'sql', 'databases']",1
+"['java', 'c++', 'sql', 'databases', 'testing', 'oracle']",1
+"['sql', 'financial reporting', 'tax']",1
+"['java', 'c++', 'web', 'sql', 'testing', 'agile', 'oracle']",1
+"['java', 'c++', 'javascript', 'php', 'html', 'css', 'web', 'sql']",1
+"['java', 'javascript', 'php', 'html', 'css', 'web', 'agile', 'scrum']",1
+"['sql', 'tax']",1
+"['php', 'sql', 'testing']",1
+"['java', 'javascript', 'php', 'html', 'css', 'web', 'sql', 'testing']",1
+"['java', 'databases', 'sap']",1
+"['java', 'c++', 'oracle']",1
+"['c++', 'databases']",1
+"['php', 'html', 'css', 'web']",1
+"['java', 'agile']",1
+"['java', 'javascript', 'html', 'css', 'web', 'git', 'agile', 'scrum']",1
+"['java', 'javascript', 'html', 'css', 'web', 'sql', 'git']",1
+"['html', 'css', 'web', 'sql', 'agile']",1
+"['java', 'javascript', 'html', 'css', 'web', 'agile', 'scrum']",1
+"['c++', 'html', 'web', 'sql', 'oracle']",1
+"['python', 'java', 'javascript', 'html', 'css', 'web', 'sql', 'git']",1
+"['databases', 'financial reporting']",1
+"['java', 'c++', 'javascript', 'html', 'css', 'web', 'git', 'agile']",1
+"['java', 'php', 'css', 'web']",1
+"['python', 'java', 'c++', 'sql']",1
+"['java', 'javascript', 'php', 'html', 'css', 'sql', 'oracle']",1
+"['java', 'html', 'sql', 'databases', 'oracle']",1
+"['c++', 'web', 'databases']",1
+"['java', 'javascript', 'html', 'web', 'sql', 'databases']",1
+"['java', 'c++', 'html', 'sql']",1
+"['java', 'html', 'sql', 'testing', 'oracle']",1
+"['java', 'c++', 'javascript', 'html', 'web', 'sql']",1
+"['c++', 'web', 'sql', 'databases']",1
+"['php', 'html', 'sql', 'databases', 'oracle']",1
+"['java', 'c++', 'web', 'sql', 'testing']",1
+"['java', 'c++', 'data structures', 'sql', 'databases']",1
+"['data structures', 'sql', 'oracle']",1
+"['java', 'sql', 'testing', 'oracle']",1
+"['python', 'php']",1
+"['html', 'css', 'web', 'git', 'testing']",1
+"['java', 'javascript', 'core java', 'html', 'css', 'web', 'sql', 'nosql', 'testing']",1
+"['bookkeeping', 'oracle']",1
+"['java', 'javascript', 'php', 'html', 'css', 'web', 'sql', 'agile', 'scrum']",1
+"['java', 'c++', 'php', 'html', 'css', 'web', 'sql', 'databases']",1
+"['gaap', 'sap']",1
+"['gaap', 'oracle']",1
+"['java', 'testing', 'agile']",1
+"['sql', 'agile', 'scrum', 'risk management']",1
+"['python', 'java']",1
+"['java', 'javascript', 'php', 'html', 'css', 'web', 'sql', 'git', 'github']",1
+"['c++', 'sql', 'git']",1
+"['python', 'java', 'javascript', 'web', 'sql', 'nosql', 'software development lifecycle', 'agile', 'scrum']",1
+"['java', 'web', 'apis', 'oracle']",1
+"['java', 'c++', 'web', 'data structures']",1
+"['java', 'javascript', 'html', 'css', 'web', 'databases', 'testing']",1
+"['python', 'java', 'javascript', 'sql', 'agile']",1
+"['python', 'java', 'javascript', 'web', 'sql', 'nosql', 'git', 'software development lifecycle', 'agile', 'scrum']",1
+"['java', 'apis', 'sql']",1
+"['java', 'data structures', 'sql', 'oracle']",1
+"['web', 'git', 'testing']",1
+"['c++', 'php', 'web', 'sql']",1
+"['java', 'c++', 'javascript', 'php', 'html', 'css', 'sql']",1
+"['ledger', 'bookkeeping']",1
+"['java', 'javascript', 'php', 'html', 'css', 'data structures', 'sql', 'databases']",1
+"['java', 'c++', 'html']",1
+"['java', 'c++', 'php', 'html']",1
+"['gaap', 'tax', 'budgeting', 'quickbooks']",1
+"['java', 'c++', 'javascript', 'php', 'html', 'web', 'sql']",1
+"['c++', 'php', 'web', 'sql', 'databases', 'oracle']",1
+"['web', 'databases', 'oracle']",1
+"['web', 'apis']",1
+"['agile', 'financial reporting', 'tax']",1
+"['java', 'javascript', 'html', 'css', 'web', 'budgeting']",1
+"['java', 'javascript', 'sql', 'nosql', 'agile', 'scrum']",1
+"['python', 'java', 'javascript', 'web', 'sql', 'agile']",1
+"['java', 'javascript', 'html', 'css', 'sql', 'databases', 'agile', 'oracle']",1
+"['java', 'javascript', 'sql', 'databases']",1
+"['databases', 'budgeting']",1
+"['java', 'c++', 'agile']",1
+"['python', 'apis', 'agile']",1
+"['html', 'git', 'agile', 'scrum']",1
+"['html', 'web', 'agile']",1
+"['python', 'java', 'javascript', 'sql', 'nosql']",1
+"['java', 'javascript', 'html', 'css', 'web', 'testing', 'agile', 'scrum']",1
+"['html', 'sql', 'testing', 'agile', 'scrum']",1
+"['python', 'web', 'sql', 'oracle']",1
+"['python', 'java', 'javascript', 'php', 'css', 'web', 'apis', 'sql', 'nosql', 'databases', 'git', 'agile']",1
+"['python', 'java', 'javascript', 'html', 'css', 'web', 'apis', 'sql', 'nosql', 'databases', 'git', 'testing']",1
+"['c++', 'sql', 'software development lifecycle']",1
+"['java', 'c++', 'javascript', 'php', 'html', 'css']",1
+"['java', 'javascript', 'html', 'web', 'databases', 'oracle']",1
+['data structures'],1
+"['ledger', 'bookkeeping', 'quickbooks']",1
+"['java', 'c++', 'php', 'html', 'sql', 'databases', 'oracle']",1
+"['java', 'javascript', 'html', 'web', 'sql', 'tax']",1
+"['html', 'web', 'databases']",1
+"['php', 'sql', 'databases']",1
+"['python', 'java', 'javascript', 'php', 'web', 'sql']",1
+"['java', 'oracle']",1
+"['c++', 'php', 'html', 'data structures', 'sql']",1
+"['python', 'java', 'databases', 'oracle']",1
+"['java', 'c++', 'html', 'web', 'sql', 'databases']",1
+"['java', 'javascript', 'php', 'html', 'data structures', 'sql']",1
+"['financial reporting', 'bookkeeping']",1
+"['java', 'javascript', 'php', 'html', 'web', 'data structures', 'sql']",1
+"['java', 'javascript', 'sql', 'git', 'agile', 'scrum', 'oracle']",1
+"['python', 'java', 'javascript', 'php', 'html', 'css', 'web']",1
+"['java', 'javascript', 'php', 'html', 'css', 'sql', 'databases', 'git']",1
+"['java', 'javascript', 'php', 'css', 'web', 'sql']",1
+"['java', 'javascript', 'html', 'css', 'web', 'agile']",1
+"['sql', 'nosql', 'databases', 'testing']",1
+"['financial reporting', 'gaap', 'tax', 'budgeting', 'risk management']",1
+"['java', 'javascript', 'html', 'css', 'web', 'sql', 'git', 'agile', 'scrum']",1
+"['web', 'testing', 'scrum']",1
+"['php', 'sql', 'oracle']",1
+"['python', 'java', 'javascript', 'html', 'css', 'sql', 'testing', 'oracle']",1
+"['java', 'c++', 'web', 'data structures', 'sql', 'databases']",1
+"['java', 'c++', 'javascript', 'php', 'html', 'css', 'web', 'data structures', 'sql', 'databases', 'oracle']",1
+"['java', 'javascript', 'php', 'html', 'css', 'sql', 'git', 'agile', 'scrum']",1
+"['python', 'java', 'javascript', 'php', 'html', 'css', 'sql', 'git']",1
+"['java', 'javascript', 'testing', 'agile']",1
+"['java', 'web', 'databases', 'agile', 'scrum']",1
+"['java', 'c++', 'javascript', 'php', 'html', 'css', 'sql', 'git']",1
+['contract drafting'],1
+"['java', 'web', 'git', 'testing']",1
+"['java', 'javascript', 'php', 'html', 'css', 'web', 'testing']",1
+"['java', 'javascript', 'php', 'html', 'sql', 'oracle']",1
+"['java', 'web', 'apis', 'sql']",1
+"['sql', 'testing', 'agile']",1
+"['python', 'java', 'javascript', 'web', 'sql', 'testing', 'scrum', 'waterfall']",1
+"['java', 'javascript', 'php', 'html', 'css', 'sql', 'git']",1
+"['java', 'javascript', 'sql', 'agile', 'scrum']",1
